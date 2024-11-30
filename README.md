@@ -1,4 +1,4 @@
-# mis_lab01
+# Мобилни информациски системи
 
 A new Flutter project.
 
